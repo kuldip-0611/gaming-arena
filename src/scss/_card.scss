@@ -1,0 +1,11 @@
+.card-item1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+
+    .rate-button{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
